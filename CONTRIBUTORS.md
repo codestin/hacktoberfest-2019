@@ -1,4 +1,9 @@
-﻿#### Name: [Marinescu Sebastian](https://github.com/sebika)
+#### Name: [Christin Chong](https://github.com/codestin)
+- Place: San Francisco, CA, USA
+- Bio: Scientific Director
+- GitHub: [codestin](https://github.com/codestin)
+
+#### Name: [Marinescu Sebastian](https://github.com/sebika)
 - Place: Bucharest, Romania
 - Bio: Student
 - GitHub: [Marinescu Sebastian](https://github.com/sebika)
